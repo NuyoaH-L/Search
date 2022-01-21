@@ -24,7 +24,7 @@
 
 ### 浏览器访问以下地址
 
-> <https://search.elijah16t.ml>
+> <https://search.nuyoah-l.ml>
 
 ### 本地运行
 
